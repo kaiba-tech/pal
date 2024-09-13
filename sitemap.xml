@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
-         <loc>https://docs.hypermedia.org/</loc>
+         <loc>https://thomasborgen.github.io/hypermedia/</loc>
          <lastmod>2024-09-13</lastmod>
     </url>
     <url>
-         <loc>https://docs.hypermedia.org/htmx/</loc>
+         <loc>https://thomasborgen.github.io/hypermedia/htmx/</loc>
          <lastmod>2024-09-13</lastmod>
     </url>
     <url>
-         <loc>https://docs.hypermedia.org/quickstart/</loc>
+         <loc>https://thomasborgen.github.io/hypermedia/quickstart/</loc>
          <lastmod>2024-09-13</lastmod>
     </url>
     <url>
-         <loc>https://docs.hypermedia.org/slots_and_extending/</loc>
+         <loc>https://thomasborgen.github.io/hypermedia/slots_and_extending/</loc>
          <lastmod>2024-09-13</lastmod>
     </url>
     <url>
-         <loc>https://docs.hypermedia.org/fastapi/</loc>
+         <loc>https://thomasborgen.github.io/hypermedia/fastapi/</loc>
          <lastmod>2024-09-13</lastmod>
     </url>
 </urlset>
