@@ -1,6 +1,6 @@
-site_name: Hypermedia docs
+site_name: Hypermedia documentation
 
-site_url: https://docs.hypermedia.org/mysite
+site_url: https://thomasborgen.github.io/hypermedia/
 theme:
   name: material
   features:
